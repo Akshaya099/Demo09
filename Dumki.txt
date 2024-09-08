@@ -1,3 +1,5 @@
 Dumki file is created from github
 This file is directly created in Github
 
+To get this file in VS code use git pull command
+
